@@ -1,11 +1,9 @@
 ---
 name: character-voice
-description: Create exaggerated character voices (especially feminine authority figures,
-  institutional bureaucrats, old-timey men) through distinct syntax, word choice,
-  and vocal qualities translated to text.
+description: Create exaggerated character voices (especially feminine authority figures, institutional bureaucrats, old-timey men) through distinct syntax, word choice, and vocal qualities translated to text.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
